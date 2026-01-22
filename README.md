@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Tiago Xavier 👋
 
-<!--
-**xft-eng/xft-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with strong experience in backend development and system architecture.
 
-Here are some ideas to get you started:
+I focus on building scalable, maintainable, and well-structured software using modern engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Expertise
+- Backend development with **.NET / C#**
+- RESTful API design
+- Clean Architecture & SOLID principles
+- Domain-driven code organization
+- Cloud-ready applications
+- Relational databases and data modeling
+- Integration between distributed systems
+
+## Tech Stack
+- **Languages:** C#, JavaScript
+- **Frameworks:** .NET, ASP.NET Core
+- **Architecture:** Clean Architecture, DDD-inspired layers
+- **Databases:** PostgreSQL, SQL Server
+- **Tools:** Git, Docker
+- **Practices:** Unit testing, code review, refactoring
+
+## What I Value in Engineering
+- Readable and maintainable code
+- Clear separation of concerns
+- Explicit domain modeling
+- Scalable system design
+- Continuous improvement
+
+## Currently
+- Improving system architecture and backend performance
+- Studying cloud-native patterns
+- Enhancing code quality and testing strategies
+
+📍 Recife, Brazil  
+🌍 Open to international opportunities
